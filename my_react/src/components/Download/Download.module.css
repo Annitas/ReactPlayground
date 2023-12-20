@@ -1,23 +1,22 @@
 .div {
-    margin-top: 100px;
+    margin-top: 50%;
 }
 .left_block {
     float: left;
     width: 30%;
-    margin-right: 5%;
-    padding-left: 5%;
+    margin-left: 5%;
 }
 
 .right_block {
     float: right;
     width: 50%;
-    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .image {
     width: 593px;
     height: 498px;
-    float: left;
+    float: right;
     flex: 1;
 }
 
@@ -42,3 +41,6 @@ p {
     color: #7D7987;
     font-size: 18px;
 }
+
+
+
