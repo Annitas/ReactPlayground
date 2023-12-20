@@ -17,7 +17,7 @@
     width: 593px;
     height: 498px;
     float: right;
-
+    flex: 1;
 }
 
 .button {

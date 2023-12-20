@@ -1,0 +1,15 @@
+.learn_more_block {
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.learn_more_button {
+    border: 1px solid rgba(69, 143, 246, 1);
+    background-color: white;
+    height: 60px;
+    width: 180px;
+    color: rgba(69, 143, 246, 1);
+    font-weight: bold;
+    font-size: 1.2rem;
+    border-radius: 30px;
+}
