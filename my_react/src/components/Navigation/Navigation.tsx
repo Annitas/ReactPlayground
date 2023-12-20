@@ -8,7 +8,7 @@ function Navigation() {
         //   <span className={classes.header_logo}>T</span>
         // </header>
       <header className={classes.header}>
-        <span className={classes.header_logo}><img src="../src/assets/ellipse_logo.png" alt="portlandlogo"/></span>
+        <span className={classes.header_logo}><img className={classes.header_logo} src="../src/assets/ellipse_logo.png" alt="portlandlogo"/></span>
         <nav className={classes.header_navbar}>
           <ul className={classes.header_nav_list}>
             <li className={classes.header_nav_list_item}><a href="#">Home</a></li>
