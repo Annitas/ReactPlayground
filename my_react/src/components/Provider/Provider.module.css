@@ -1,0 +1,49 @@
+.div {
+    margin-top: 100px;
+}
+.left_block {
+    float: left;
+    width: 30%;
+    margin-right: 5%;
+    padding-left: 5%;
+}
+
+.right_block {
+    float: right;
+    width: 50%;
+    margin-left: 5%;
+}
+
+.image {
+    width: 593px;
+    height: 498px;
+    float: left;
+    flex: 1;
+}
+
+.button {
+    border: none;
+    border-radius: 30px;
+    background-color: rgba(69, 143, 246, 1);
+    color: white;
+    height: 4rem;
+    width: 12rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 2.5rem;
+}
+
+img {
+    width: 40;
+    height: 350;
+}
+
+h2 {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 36px;
+}
+
+p {
+    color: #7D7987;
+    font-size: 18px;
+}
