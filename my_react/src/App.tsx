@@ -6,6 +6,7 @@ import Provider from './components/Provider/index';
 import Download from './components/Download/index';
 import Slider from './components/Slider/index';
 import LatestArticle from './components/LatestArticle/LatestArticle';
+import Footer from './components/Footer/Footer';
 
 function App() {
 
@@ -18,19 +19,9 @@ function App() {
       <Download />
       <Slider />
       <LatestArticle />
-      {/* <p className="read-the-docs"> 
-        Click on the Vite and React logos to learn more YEEEAG
-      </p>
-
-      <p className={classes.doc_sss}> 
-        Click on the Vite and React logos to learn more LOL
-      </p>
-       */}
-       
-
-      
+      <Footer />
     </>
-  )
+  );
 }
 
 export default App
