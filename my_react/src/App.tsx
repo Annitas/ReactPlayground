@@ -4,6 +4,7 @@ import Header from './components/Header/index';
 import Service from './components/Service/index';
 import Provider from './components/Provider/index';
 import Download from './components/Download/index';
+import Slider from './components/Slider/index';
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
       <Service />
       <Provider />
       <Download />
+      <Slider />
       {/* <p className="read-the-docs"> 
         Click on the Vite and React logos to learn more YEEEAG
       </p>
