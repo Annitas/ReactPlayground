@@ -11,13 +11,13 @@
     font-family:'Times New Roman', Times, serif;
     margin-left: auto;
     margin-right: auto;
-    width: 6em;
+    width: 12em;
     flex: 1;
 }
 
 .service_text {
     color: #7D7987;
-    font-size: 18px;
+    font-size: 21px;
     font-weight: 300;
     font-family:'Times New Roman', Times, serif;
     margin-left: auto;

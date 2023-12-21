@@ -5,6 +5,7 @@ import Service from './components/Service/index';
 import Provider from './components/Provider/index';
 import Download from './components/Download/index';
 import Slider from './components/Slider/index';
+import LatestArticle from './components/LatestArticle/LatestArticle';
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
       <Provider />
       <Download />
       <Slider />
+      <LatestArticle />
       {/* <p className="read-the-docs"> 
         Click on the Vite and React logos to learn more YEEEAG
       </p>

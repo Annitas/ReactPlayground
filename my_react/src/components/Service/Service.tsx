@@ -5,7 +5,7 @@ import LearnMoreButton from './LearnMoreButton/index';
 function Service() {
 
     return (
-        <>
+        <div className={classes.service_div}>
         <p className={classes.service_header_text}>Our services</p>
 
         <p className={classes.service_text}>We provide to you the best choiches for you. Adjust it to your health needs and make sure your undergo treatment with our highly qualified doctors you can consult with us which type of service is suitable for your health</p>
@@ -33,7 +33,7 @@ function Service() {
                            text="Track and save your medical history and health data"/>
         </div>
         <LearnMoreButton title="Learn more"/>
-        </>
+        </div>
     );
 }
 
