@@ -1,0 +1,38 @@
+
+
+.service_div {
+    padding-top: 40%;
+}
+
+.service_header_text {
+    color: black;
+    font-size: 36px;
+    font-weight: 700;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12em;
+    flex: 1;
+}
+
+.service_text {
+    color: #7D7987;
+    font-size: 21px;
+    font-weight: 300;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 46em;
+    text-align: center;
+}
+
+.service_blocks {
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: space-between;
+
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5rem;
+}
